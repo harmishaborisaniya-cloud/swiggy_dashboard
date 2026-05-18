@@ -7,7 +7,7 @@ I developed a comprehensive project in Excel, creating multiple and tables and c
 To create an interactive sales and Trend analysis dashboard to understand business performance, customer purchasing behavior, and product trends. This project helps identify important insights that can improve sales strategies and Trends.
 
 ## swiggy_dashboard Dashboard Dataset (MS Excel)
-<a href="https://github.com/harmishaborisaniya-cloud/Bicycle_shop_dashboard/blob/main/Bicycle%20Shop%20Dashboard.xlsx">Data_set</a>
+<a href="https://github.com/harmishaborisaniya-cloud/swiggy_dashboard/blob/main/Swiggy%20Raw%20Data%20Excel.xlsx">Data_set</a>
 
 
 * ## Questions (KPIs)
