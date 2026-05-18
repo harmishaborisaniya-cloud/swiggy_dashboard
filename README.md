@@ -39,7 +39,7 @@ To create an interactive sales and Trend analysis dashboard to understand busine
 
 ## Dashboard
 
-<a href="https://github.com/harmishaborisaniya-cloud/Bicycle_shop_dashboard/blob/main/Screenshot%202026-05-09%20165412.png">Screenshort</a>
+<a href="https://github.com/harmishaborisaniya-cloud/swiggy_dashboard/blob/main/Swiggy_ss.png">Screenshort</a>
 
 
 ### 📌 Project Insights
