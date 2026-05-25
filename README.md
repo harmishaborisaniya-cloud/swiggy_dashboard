@@ -67,4 +67,4 @@ To create an interactive sales and Trend analysis dashboard to understand busine
 
 ## 📌 Final Conclusion
 
-This Power BI dashboard project provides valuable insights into Swiggy sales performance, customer behavior, and regional trends. By analyzing sales, ratings, orders, and food categories, the dashboard helps in understanding business growth and customer preferences. The project improved my skills in data visualization, dashboard designing, and business analytics using Power BI.
+This MS Excel dashboard project provides valuable insights into Swiggy sales performance, customer behavior, and regional trends. By analyzing sales, ratings, orders, and food categories, the dashboard helps in understanding business growth and customer preferences. The project improved my skills in data visualization, dashboard designing, and business analytics using Power BI.
